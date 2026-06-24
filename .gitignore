@@ -1,0 +1,28 @@
+# Data files
+*.csv
+*.zip
+*.sqlite
+data/
+
+# Model files
+final_model/
+results/
+checkpoint-*/
+
+# Credentials
+*.json
+.kaggle/
+kaggle.json
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+mlruns/
+
+# OS
+.DS_Store
+hashes.txt
