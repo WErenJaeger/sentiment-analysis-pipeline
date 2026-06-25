@@ -1,5 +1,7 @@
 # Sentiment Analysis & Anomaly Detection Pipeline
 
+**[Live Demo](https://sentiment-dashboard-plum.vercel.app)** — try the model with your own text and see the full anomaly analysis.
+
 End-to-end NLP pipeline that fine-tunes DistilBERT for sentiment classification on Amazon product reviews, with weekly trend analysis, statistical anomaly detection, serverless model deployment, and an interactive React dashboard.
 
 ## Project Overview
