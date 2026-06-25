@@ -1,0 +1,2218 @@
+{
+  "weekly": [
+    {
+      "week_start": "2004-07-26",
+      "avg_sentiment": 0.4848484848484848,
+      "review_count": 33,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-07-04",
+      "avg_sentiment": 0.7352941176470589,
+      "review_count": 34,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-09-05",
+      "avg_sentiment": 0.6470588235294118,
+      "review_count": 51,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-09-12",
+      "avg_sentiment": 0.65,
+      "review_count": 40,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-09-19",
+      "avg_sentiment": 0.7666666666666667,
+      "review_count": 30,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-09-26",
+      "avg_sentiment": 0.5526315789473685,
+      "review_count": 38,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-10-03",
+      "avg_sentiment": 0.7,
+      "review_count": 30,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-10-10",
+      "avg_sentiment": 0.9333333333333332,
+      "review_count": 30,
+      "is_anomaly": true
+    },
+    {
+      "week_start": "2005-11-21",
+      "avg_sentiment": 0.8484848484848485,
+      "review_count": 33,
+      "is_anomaly": true
+    },
+    {
+      "week_start": "2005-11-28",
+      "avg_sentiment": 0.7941176470588235,
+      "review_count": 34,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-12-05",
+      "avg_sentiment": 0.59375,
+      "review_count": 32,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-12-19",
+      "avg_sentiment": 0.6333333333333333,
+      "review_count": 30,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2005-12-26",
+      "avg_sentiment": 0.5151515151515151,
+      "review_count": 33,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-01-02",
+      "avg_sentiment": 0.3947368421052631,
+      "review_count": 38,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-01-09",
+      "avg_sentiment": 0.5833333333333334,
+      "review_count": 48,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-01-23",
+      "avg_sentiment": 0.6666666666666666,
+      "review_count": 57,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-01-30",
+      "avg_sentiment": 0.5476190476190477,
+      "review_count": 42,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-02-06",
+      "avg_sentiment": 0.4411764705882353,
+      "review_count": 34,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-02-13",
+      "avg_sentiment": 0.4285714285714285,
+      "review_count": 42,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-02-20",
+      "avg_sentiment": 0.2833333333333333,
+      "review_count": 120,
+      "is_anomaly": true
+    },
+    {
+      "week_start": "2006-02-27",
+      "avg_sentiment": 0.4696969696969697,
+      "review_count": 66,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-03-06",
+      "avg_sentiment": 0.5517241379310345,
+      "review_count": 58,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-03-13",
+      "avg_sentiment": 0.5783132530120482,
+      "review_count": 83,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-03-20",
+      "avg_sentiment": 0.7627118644067796,
+      "review_count": 59,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-03-27",
+      "avg_sentiment": 0.7741935483870968,
+      "review_count": 31,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-04-10",
+      "avg_sentiment": 0.6052631578947368,
+      "review_count": 38,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-04-17",
+      "avg_sentiment": 0.5294117647058824,
+      "review_count": 34,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-04-24",
+      "avg_sentiment": 0.4,
+      "review_count": 30,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-05-15",
+      "avg_sentiment": 0.4210526315789473,
+      "review_count": 38,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-05-22",
+      "avg_sentiment": 0.7878787878787878,
+      "review_count": 33,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-05-29",
+      "avg_sentiment": 0.4489795918367347,
+      "review_count": 49,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-06-05",
+      "avg_sentiment": 0.5333333333333333,
+      "review_count": 60,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-06-12",
+      "avg_sentiment": 0.6615384615384615,
+      "review_count": 65,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-06-19",
+      "avg_sentiment": 0.6170212765957447,
+      "review_count": 47,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-06-26",
+      "avg_sentiment": 0.7894736842105263,
+      "review_count": 76,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-07-03",
+      "avg_sentiment": 0.6176470588235294,
+      "review_count": 102,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-07-10",
+      "avg_sentiment": 0.5980392156862745,
+      "review_count": 102,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-07-17",
+      "avg_sentiment": 0.5777777777777777,
+      "review_count": 135,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-07-24",
+      "avg_sentiment": 0.6363636363636364,
+      "review_count": 143,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-07-31",
+      "avg_sentiment": 0.6028368794326241,
+      "review_count": 141,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-08-07",
+      "avg_sentiment": 0.5964912280701754,
+      "review_count": 114,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-08-14",
+      "avg_sentiment": 0.6549707602339181,
+      "review_count": 171,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-08-21",
+      "avg_sentiment": 0.5988023952095808,
+      "review_count": 167,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-08-28",
+      "avg_sentiment": 0.6296296296296297,
+      "review_count": 162,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-09-04",
+      "avg_sentiment": 0.3924050632911392,
+      "review_count": 79,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-09-11",
+      "avg_sentiment": 0.6699029126213593,
+      "review_count": 103,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-09-18",
+      "avg_sentiment": 0.46,
+      "review_count": 100,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-09-25",
+      "avg_sentiment": 0.6142857142857143,
+      "review_count": 70,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-10-02",
+      "avg_sentiment": 0.5411764705882353,
+      "review_count": 85,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-10-09",
+      "avg_sentiment": 0.6590909090909091,
+      "review_count": 88,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-10-16",
+      "avg_sentiment": 0.6590909090909091,
+      "review_count": 88,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-10-23",
+      "avg_sentiment": 0.4158415841584158,
+      "review_count": 101,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-10-30",
+      "avg_sentiment": 0.660958904109589,
+      "review_count": 292,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-11-06",
+      "avg_sentiment": 0.699228791773779,
+      "review_count": 389,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-11-13",
+      "avg_sentiment": 0.6050420168067226,
+      "review_count": 119,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-11-20",
+      "avg_sentiment": 0.4622641509433962,
+      "review_count": 106,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-11-27",
+      "avg_sentiment": 0.6666666666666666,
+      "review_count": 108,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-12-04",
+      "avg_sentiment": 0.4571428571428571,
+      "review_count": 105,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-12-11",
+      "avg_sentiment": 0.6260869565217392,
+      "review_count": 115,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-12-18",
+      "avg_sentiment": 0.5648854961832062,
+      "review_count": 131,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2006-12-25",
+      "avg_sentiment": 0.5214285714285715,
+      "review_count": 140,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-01-01",
+      "avg_sentiment": 0.693609022556391,
+      "review_count": 532,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-01-08",
+      "avg_sentiment": 0.6945975744211687,
+      "review_count": 907,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-01-15",
+      "avg_sentiment": 0.7219251336898396,
+      "review_count": 374,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-01-22",
+      "avg_sentiment": 0.6188118811881188,
+      "review_count": 202,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-01-29",
+      "avg_sentiment": 0.5901639344262295,
+      "review_count": 183,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-02-05",
+      "avg_sentiment": 0.7368421052631579,
+      "review_count": 342,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-02-12",
+      "avg_sentiment": 0.6496815286624203,
+      "review_count": 314,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-02-19",
+      "avg_sentiment": 0.60546875,
+      "review_count": 256,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-02-26",
+      "avg_sentiment": 0.4901960784313725,
+      "review_count": 153,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-03-05",
+      "avg_sentiment": 0.671578947368421,
+      "review_count": 475,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-03-12",
+      "avg_sentiment": 0.6550632911392406,
+      "review_count": 316,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-03-19",
+      "avg_sentiment": 0.66,
+      "review_count": 300,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-03-26",
+      "avg_sentiment": 0.6852459016393443,
+      "review_count": 305,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-04-02",
+      "avg_sentiment": 0.6808510638297872,
+      "review_count": 235,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-04-09",
+      "avg_sentiment": 0.6637554585152838,
+      "review_count": 229,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-04-16",
+      "avg_sentiment": 0.5980392156862745,
+      "review_count": 102,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-04-23",
+      "avg_sentiment": 0.6583333333333333,
+      "review_count": 120,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-04-30",
+      "avg_sentiment": 0.5630630630630631,
+      "review_count": 222,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-05-07",
+      "avg_sentiment": 0.7491467576791809,
+      "review_count": 586,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-05-14",
+      "avg_sentiment": 0.7129909365558912,
+      "review_count": 331,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-05-21",
+      "avg_sentiment": 0.6196581196581197,
+      "review_count": 234,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-05-28",
+      "avg_sentiment": 0.6776859504132231,
+      "review_count": 242,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-06-04",
+      "avg_sentiment": 0.6571428571428571,
+      "review_count": 280,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-06-11",
+      "avg_sentiment": 0.571969696969697,
+      "review_count": 264,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-06-18",
+      "avg_sentiment": 0.584,
+      "review_count": 125,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-06-25",
+      "avg_sentiment": 0.616,
+      "review_count": 250,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-07-02",
+      "avg_sentiment": 0.6589147286821705,
+      "review_count": 258,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-07-09",
+      "avg_sentiment": 0.6475095785440613,
+      "review_count": 261,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-07-16",
+      "avg_sentiment": 0.6772908366533864,
+      "review_count": 251,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-07-23",
+      "avg_sentiment": 0.6074074074074074,
+      "review_count": 270,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-07-30",
+      "avg_sentiment": 0.6299212598425197,
+      "review_count": 254,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-08-06",
+      "avg_sentiment": 0.632258064516129,
+      "review_count": 310,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-08-13",
+      "avg_sentiment": 0.7198067632850241,
+      "review_count": 207,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-08-20",
+      "avg_sentiment": 0.6630434782608695,
+      "review_count": 276,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-08-27",
+      "avg_sentiment": 0.6527777777777778,
+      "review_count": 288,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-09-03",
+      "avg_sentiment": 0.6279863481228669,
+      "review_count": 293,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-09-10",
+      "avg_sentiment": 0.6483516483516484,
+      "review_count": 273,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-09-17",
+      "avg_sentiment": 0.7062937062937062,
+      "review_count": 286,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-09-24",
+      "avg_sentiment": 0.5929824561403508,
+      "review_count": 285,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-10-01",
+      "avg_sentiment": 0.6357142857142857,
+      "review_count": 280,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-10-08",
+      "avg_sentiment": 0.6359832635983264,
+      "review_count": 239,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-10-15",
+      "avg_sentiment": 0.6169491525423729,
+      "review_count": 295,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-10-22",
+      "avg_sentiment": 0.6,
+      "review_count": 335,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-10-29",
+      "avg_sentiment": 0.7062314540059347,
+      "review_count": 337,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-11-05",
+      "avg_sentiment": 0.6238805970149254,
+      "review_count": 335,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-11-12",
+      "avg_sentiment": 0.7048611111111112,
+      "review_count": 288,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-11-19",
+      "avg_sentiment": 0.67601246105919,
+      "review_count": 321,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-11-26",
+      "avg_sentiment": 0.620253164556962,
+      "review_count": 395,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-12-03",
+      "avg_sentiment": 0.7063953488372093,
+      "review_count": 344,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-12-10",
+      "avg_sentiment": 0.5947521865889213,
+      "review_count": 343,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-12-17",
+      "avg_sentiment": 0.6648501362397821,
+      "review_count": 367,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-12-24",
+      "avg_sentiment": 0.6365740740740741,
+      "review_count": 432,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2007-12-31",
+      "avg_sentiment": 0.6073170731707317,
+      "review_count": 410,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-01-07",
+      "avg_sentiment": 0.6299212598425197,
+      "review_count": 508,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-01-14",
+      "avg_sentiment": 0.7127882599580713,
+      "review_count": 477,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-01-21",
+      "avg_sentiment": 0.6386554621848739,
+      "review_count": 357,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-01-28",
+      "avg_sentiment": 0.5985915492957746,
+      "review_count": 284,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-02-04",
+      "avg_sentiment": 0.6439393939393939,
+      "review_count": 528,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-02-11",
+      "avg_sentiment": 0.6274900398406374,
+      "review_count": 502,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-02-18",
+      "avg_sentiment": 0.6159250585480094,
+      "review_count": 427,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-02-25",
+      "avg_sentiment": 0.6336842105263157,
+      "review_count": 475,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-03-03",
+      "avg_sentiment": 0.6534090909090909,
+      "review_count": 352,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-03-10",
+      "avg_sentiment": 0.6096774193548387,
+      "review_count": 310,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-03-17",
+      "avg_sentiment": 0.6534954407294833,
+      "review_count": 329,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-03-24",
+      "avg_sentiment": 0.6609442060085837,
+      "review_count": 466,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-03-31",
+      "avg_sentiment": 0.6681922196796338,
+      "review_count": 437,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-04-07",
+      "avg_sentiment": 0.6132315521628499,
+      "review_count": 393,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-04-14",
+      "avg_sentiment": 0.6902887139107612,
+      "review_count": 381,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-04-21",
+      "avg_sentiment": 0.6176470588235294,
+      "review_count": 476,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-04-28",
+      "avg_sentiment": 0.6269315673289183,
+      "review_count": 453,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-05-05",
+      "avg_sentiment": 0.6314553990610329,
+      "review_count": 426,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-05-12",
+      "avg_sentiment": 0.6556291390728477,
+      "review_count": 453,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-05-19",
+      "avg_sentiment": 0.6637168141592921,
+      "review_count": 452,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-05-26",
+      "avg_sentiment": 0.6877133105802048,
+      "review_count": 586,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-06-02",
+      "avg_sentiment": 0.6690140845070423,
+      "review_count": 426,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-06-09",
+      "avg_sentiment": 0.6282051282051282,
+      "review_count": 390,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-06-16",
+      "avg_sentiment": 0.6727642276422764,
+      "review_count": 492,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-06-23",
+      "avg_sentiment": 0.5654648956356736,
+      "review_count": 527,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-06-30",
+      "avg_sentiment": 0.5659574468085107,
+      "review_count": 470,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-07-07",
+      "avg_sentiment": 0.6301075268817204,
+      "review_count": 465,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-07-14",
+      "avg_sentiment": 0.5681818181818182,
+      "review_count": 440,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-07-21",
+      "avg_sentiment": 0.6732456140350878,
+      "review_count": 456,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-07-28",
+      "avg_sentiment": 0.6438356164383562,
+      "review_count": 438,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-08-04",
+      "avg_sentiment": 0.6312849162011173,
+      "review_count": 358,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-08-11",
+      "avg_sentiment": 0.6348773841961853,
+      "review_count": 367,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-08-18",
+      "avg_sentiment": 0.5287009063444109,
+      "review_count": 331,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-08-25",
+      "avg_sentiment": 0.648695652173913,
+      "review_count": 575,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-09-01",
+      "avg_sentiment": 0.6744730679156908,
+      "review_count": 427,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-09-08",
+      "avg_sentiment": 0.6964769647696477,
+      "review_count": 369,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-09-15",
+      "avg_sentiment": 0.6560196560196561,
+      "review_count": 407,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-09-22",
+      "avg_sentiment": 0.6033333333333334,
+      "review_count": 300,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-09-29",
+      "avg_sentiment": 0.6068181818181818,
+      "review_count": 440,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-10-06",
+      "avg_sentiment": 0.6111111111111112,
+      "review_count": 414,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-10-13",
+      "avg_sentiment": 0.574468085106383,
+      "review_count": 376,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-10-20",
+      "avg_sentiment": 0.6441005802707931,
+      "review_count": 517,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-10-27",
+      "avg_sentiment": 0.6933962264150944,
+      "review_count": 424,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-11-03",
+      "avg_sentiment": 0.5786350148367952,
+      "review_count": 337,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-11-10",
+      "avg_sentiment": 0.6583493282149712,
+      "review_count": 521,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-11-17",
+      "avg_sentiment": 0.6619433198380567,
+      "review_count": 494,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-11-24",
+      "avg_sentiment": 0.6148648648648649,
+      "review_count": 592,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-12-01",
+      "avg_sentiment": 0.5817120622568094,
+      "review_count": 514,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-12-08",
+      "avg_sentiment": 0.6160130718954249,
+      "review_count": 612,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-12-15",
+      "avg_sentiment": 0.6360225140712945,
+      "review_count": 533,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-12-22",
+      "avg_sentiment": 0.5922131147540983,
+      "review_count": 488,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2008-12-29",
+      "avg_sentiment": 0.5207253886010362,
+      "review_count": 386,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-01-05",
+      "avg_sentiment": 0.6910935738444194,
+      "review_count": 887,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-01-12",
+      "avg_sentiment": 0.648729446935725,
+      "review_count": 669,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-01-19",
+      "avg_sentiment": 0.662608695652174,
+      "review_count": 575,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-01-26",
+      "avg_sentiment": 0.6382575757575758,
+      "review_count": 528,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-02-02",
+      "avg_sentiment": 0.5997088791848617,
+      "review_count": 687,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-02-09",
+      "avg_sentiment": 0.6317411402157165,
+      "review_count": 649,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-02-16",
+      "avg_sentiment": 0.6504702194357367,
+      "review_count": 638,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-02-23",
+      "avg_sentiment": 0.4784053156146179,
+      "review_count": 903,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-03-02",
+      "avg_sentiment": 0.5301624129930395,
+      "review_count": 862,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-03-09",
+      "avg_sentiment": 0.5909774436090226,
+      "review_count": 665,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-03-16",
+      "avg_sentiment": 0.5808538163001293,
+      "review_count": 773,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-03-23",
+      "avg_sentiment": 0.6161616161616161,
+      "review_count": 693,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-03-30",
+      "avg_sentiment": 0.622991347342398,
+      "review_count": 809,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-04-06",
+      "avg_sentiment": 0.6467065868263473,
+      "review_count": 668,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-04-13",
+      "avg_sentiment": 0.6238805970149254,
+      "review_count": 670,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-04-20",
+      "avg_sentiment": 0.6176470588235294,
+      "review_count": 714,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-04-27",
+      "avg_sentiment": 0.6044142614601019,
+      "review_count": 589,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-05-04",
+      "avg_sentiment": 0.6011029411764706,
+      "review_count": 544,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-05-11",
+      "avg_sentiment": 0.5591572123176661,
+      "review_count": 617,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-05-18",
+      "avg_sentiment": 0.6506550218340611,
+      "review_count": 687,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-05-25",
+      "avg_sentiment": 0.6057934508816121,
+      "review_count": 794,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-06-01",
+      "avg_sentiment": 0.5977808599167822,
+      "review_count": 721,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-06-08",
+      "avg_sentiment": 0.614406779661017,
+      "review_count": 708,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-06-15",
+      "avg_sentiment": 0.6323529411764706,
+      "review_count": 612,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-06-22",
+      "avg_sentiment": 0.5374077976817703,
+      "review_count": 949,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-06-29",
+      "avg_sentiment": 0.5793650793650794,
+      "review_count": 756,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-07-06",
+      "avg_sentiment": 0.6046195652173914,
+      "review_count": 736,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-07-13",
+      "avg_sentiment": 0.5754560530679934,
+      "review_count": 603,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-07-20",
+      "avg_sentiment": 0.4951456310679611,
+      "review_count": 515,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-07-27",
+      "avg_sentiment": 0.5374531835205992,
+      "review_count": 534,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-08-03",
+      "avg_sentiment": 0.5530546623794212,
+      "review_count": 622,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-08-10",
+      "avg_sentiment": 0.5332252836304701,
+      "review_count": 617,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-08-17",
+      "avg_sentiment": 0.5839524517087668,
+      "review_count": 673,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-08-24",
+      "avg_sentiment": 0.6051364365971108,
+      "review_count": 623,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-08-31",
+      "avg_sentiment": 0.5669781931464174,
+      "review_count": 642,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-09-07",
+      "avg_sentiment": 0.6903114186851211,
+      "review_count": 1156,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-09-14",
+      "avg_sentiment": 0.622107969151671,
+      "review_count": 778,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-09-21",
+      "avg_sentiment": 0.5565476190476191,
+      "review_count": 672,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-09-28",
+      "avg_sentiment": 0.5607594936708861,
+      "review_count": 790,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-10-05",
+      "avg_sentiment": 0.6261203585147247,
+      "review_count": 781,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-10-12",
+      "avg_sentiment": 0.5870818915801614,
+      "review_count": 867,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-10-19",
+      "avg_sentiment": 0.616600790513834,
+      "review_count": 759,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-10-26",
+      "avg_sentiment": 0.5940959409594095,
+      "review_count": 813,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-11-02",
+      "avg_sentiment": 0.6087516087516087,
+      "review_count": 777,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-11-09",
+      "avg_sentiment": 0.6269554753309265,
+      "review_count": 831,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-11-16",
+      "avg_sentiment": 0.5692695214105793,
+      "review_count": 794,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-11-23",
+      "avg_sentiment": 0.577524893314367,
+      "review_count": 703,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-11-30",
+      "avg_sentiment": 0.5580645161290323,
+      "review_count": 930,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-12-07",
+      "avg_sentiment": 0.6159014557670772,
+      "review_count": 893,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-12-14",
+      "avg_sentiment": 0.5555555555555556,
+      "review_count": 837,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-12-21",
+      "avg_sentiment": 0.5650060753341434,
+      "review_count": 823,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2009-12-28",
+      "avg_sentiment": 0.5727391874180865,
+      "review_count": 763,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-01-04",
+      "avg_sentiment": 0.580896686159844,
+      "review_count": 1026,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-01-11",
+      "avg_sentiment": 0.4785992217898833,
+      "review_count": 771,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-01-18",
+      "avg_sentiment": 0.5444839857651246,
+      "review_count": 843,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-01-25",
+      "avg_sentiment": 0.5592532467532467,
+      "review_count": 1232,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-02-01",
+      "avg_sentiment": 0.6305343511450382,
+      "review_count": 1310,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-02-08",
+      "avg_sentiment": 0.6222760290556901,
+      "review_count": 1239,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-02-15",
+      "avg_sentiment": 0.5918153200419727,
+      "review_count": 953,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-02-22",
+      "avg_sentiment": 0.5769230769230769,
+      "review_count": 936,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-03-01",
+      "avg_sentiment": 0.572265625,
+      "review_count": 1024,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-03-08",
+      "avg_sentiment": 0.5556569343065694,
+      "review_count": 1096,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-03-15",
+      "avg_sentiment": 0.5634408602150538,
+      "review_count": 930,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-03-22",
+      "avg_sentiment": 0.5655655655655656,
+      "review_count": 999,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-03-29",
+      "avg_sentiment": 0.5370813397129187,
+      "review_count": 836,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-04-05",
+      "avg_sentiment": 0.5798575788402849,
+      "review_count": 983,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-04-12",
+      "avg_sentiment": 0.6213408876298395,
+      "review_count": 1059,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-04-19",
+      "avg_sentiment": 0.5847107438016529,
+      "review_count": 968,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-04-26",
+      "avg_sentiment": 0.6004273504273504,
+      "review_count": 936,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-05-03",
+      "avg_sentiment": 0.5930087390761548,
+      "review_count": 801,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-05-10",
+      "avg_sentiment": 0.5922131147540983,
+      "review_count": 976,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-05-17",
+      "avg_sentiment": 0.5537525354969574,
+      "review_count": 986,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-05-24",
+      "avg_sentiment": 0.5630434782608695,
+      "review_count": 920,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-05-31",
+      "avg_sentiment": 0.5579399141630901,
+      "review_count": 932,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-06-07",
+      "avg_sentiment": 0.6316440049443758,
+      "review_count": 809,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-06-14",
+      "avg_sentiment": 0.5489467162329615,
+      "review_count": 807,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-06-21",
+      "avg_sentiment": 0.5678670360110804,
+      "review_count": 1083,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-06-28",
+      "avg_sentiment": 0.5829787234042553,
+      "review_count": 940,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-07-05",
+      "avg_sentiment": 0.5697896749521989,
+      "review_count": 1046,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-07-12",
+      "avg_sentiment": 0.5175600739371534,
+      "review_count": 1082,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-07-19",
+      "avg_sentiment": 0.5851917930419268,
+      "review_count": 1121,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-07-26",
+      "avg_sentiment": 0.5604801477377654,
+      "review_count": 1083,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-08-02",
+      "avg_sentiment": 0.564453125,
+      "review_count": 1024,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-08-09",
+      "avg_sentiment": 0.4790547798066595,
+      "review_count": 931,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-08-16",
+      "avg_sentiment": 0.5440140845070423,
+      "review_count": 1136,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-08-23",
+      "avg_sentiment": 0.502568493150685,
+      "review_count": 1168,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-08-30",
+      "avg_sentiment": 0.5170132325141777,
+      "review_count": 1058,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-09-06",
+      "avg_sentiment": 0.5070774354704413,
+      "review_count": 1201,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-09-13",
+      "avg_sentiment": 0.5328849028400597,
+      "review_count": 1338,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-09-20",
+      "avg_sentiment": 0.5543710021321961,
+      "review_count": 1407,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-09-27",
+      "avg_sentiment": 0.5425170068027211,
+      "review_count": 1176,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-10-04",
+      "avg_sentiment": 0.4906779661016949,
+      "review_count": 1180,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-10-11",
+      "avg_sentiment": 0.566350710900474,
+      "review_count": 1266,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-10-18",
+      "avg_sentiment": 0.5027237354085603,
+      "review_count": 1285,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-10-25",
+      "avg_sentiment": 0.5316760224538893,
+      "review_count": 1247,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-11-01",
+      "avg_sentiment": 0.5431578947368421,
+      "review_count": 1425,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-11-08",
+      "avg_sentiment": 0.5269607843137255,
+      "review_count": 1224,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-11-15",
+      "avg_sentiment": 0.5224429727740986,
+      "review_count": 1359,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-11-22",
+      "avg_sentiment": 0.5151045701006971,
+      "review_count": 1291,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-11-29",
+      "avg_sentiment": 0.5274924471299094,
+      "review_count": 1655,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-12-06",
+      "avg_sentiment": 0.5148936170212766,
+      "review_count": 1410,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-12-13",
+      "avg_sentiment": 0.5060728744939271,
+      "review_count": 1482,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-12-20",
+      "avg_sentiment": 0.4839629365645046,
+      "review_count": 1403,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2010-12-27",
+      "avg_sentiment": 0.5339966832504146,
+      "review_count": 1809,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-01-03",
+      "avg_sentiment": 0.5287485907553551,
+      "review_count": 1774,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-01-10",
+      "avg_sentiment": 0.5202312138728323,
+      "review_count": 1903,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-01-17",
+      "avg_sentiment": 0.4867605633802817,
+      "review_count": 1775,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-01-24",
+      "avg_sentiment": 0.4639639639639639,
+      "review_count": 1998,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-01-31",
+      "avg_sentiment": 0.5080472103004292,
+      "review_count": 1864,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-02-07",
+      "avg_sentiment": 0.484514435695538,
+      "review_count": 1905,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-02-14",
+      "avg_sentiment": 0.4907260201377848,
+      "review_count": 1887,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-02-21",
+      "avg_sentiment": 0.5034419458467186,
+      "review_count": 2179,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-02-28",
+      "avg_sentiment": 0.5362530413625304,
+      "review_count": 2055,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-03-07",
+      "avg_sentiment": 0.5254065040650406,
+      "review_count": 1968,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-03-14",
+      "avg_sentiment": 0.5191693290734825,
+      "review_count": 1878,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-03-21",
+      "avg_sentiment": 0.5266064257028112,
+      "review_count": 1992,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-03-28",
+      "avg_sentiment": 0.5284671532846715,
+      "review_count": 2055,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-04-04",
+      "avg_sentiment": 0.5340010542962572,
+      "review_count": 1897,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-04-11",
+      "avg_sentiment": 0.4985883681535855,
+      "review_count": 1771,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-04-18",
+      "avg_sentiment": 0.5271943995691977,
+      "review_count": 1857,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-04-25",
+      "avg_sentiment": 0.5225439012814428,
+      "review_count": 2107,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-05-02",
+      "avg_sentiment": 0.5483522420313344,
+      "review_count": 1851,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-05-09",
+      "avg_sentiment": 0.5138810198300283,
+      "review_count": 1765,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-05-16",
+      "avg_sentiment": 0.5463800904977375,
+      "review_count": 1768,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-05-23",
+      "avg_sentiment": 0.539440203562341,
+      "review_count": 1572,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-05-30",
+      "avg_sentiment": 0.5205083766608897,
+      "review_count": 1731,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-06-06",
+      "avg_sentiment": 0.5201166180758018,
+      "review_count": 1715,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-06-13",
+      "avg_sentiment": 0.5262863534675615,
+      "review_count": 1788,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-06-20",
+      "avg_sentiment": 0.4486238532110091,
+      "review_count": 2180,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-06-27",
+      "avg_sentiment": 0.4944567627494456,
+      "review_count": 1804,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-07-04",
+      "avg_sentiment": 0.5168788046485888,
+      "review_count": 1807,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-07-11",
+      "avg_sentiment": 0.5208779443254818,
+      "review_count": 1868,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-07-18",
+      "avg_sentiment": 0.5061333333333333,
+      "review_count": 1875,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-07-25",
+      "avg_sentiment": 0.4870801033591731,
+      "review_count": 2322,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-08-01",
+      "avg_sentiment": 0.512278978388998,
+      "review_count": 2036,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-08-08",
+      "avg_sentiment": 0.48,
+      "review_count": 1975,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-08-15",
+      "avg_sentiment": 0.5168439716312057,
+      "review_count": 2256,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-08-22",
+      "avg_sentiment": 0.5354200988467874,
+      "review_count": 2428,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-08-29",
+      "avg_sentiment": 0.5431560592850916,
+      "review_count": 2294,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-09-05",
+      "avg_sentiment": 0.546602787456446,
+      "review_count": 2296,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-09-12",
+      "avg_sentiment": 0.5229166666666667,
+      "review_count": 2400,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-09-19",
+      "avg_sentiment": 0.5085435313262815,
+      "review_count": 2458,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-09-26",
+      "avg_sentiment": 0.5070364238410596,
+      "review_count": 2416,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-10-03",
+      "avg_sentiment": 0.5050505050505051,
+      "review_count": 2574,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-10-10",
+      "avg_sentiment": 0.4995904995904996,
+      "review_count": 2442,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-10-17",
+      "avg_sentiment": 0.5093312597200622,
+      "review_count": 2572,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-10-24",
+      "avg_sentiment": 0.5081100141043724,
+      "review_count": 2836,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-10-31",
+      "avg_sentiment": 0.5150891632373114,
+      "review_count": 2916,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-11-07",
+      "avg_sentiment": 0.5393574297188755,
+      "review_count": 2490,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-11-14",
+      "avg_sentiment": 0.4528985507246377,
+      "review_count": 2208,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-11-21",
+      "avg_sentiment": 0.525,
+      "review_count": 2480,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-11-28",
+      "avg_sentiment": 0.5056031641397495,
+      "review_count": 3034,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-12-05",
+      "avg_sentiment": 0.5210918114143921,
+      "review_count": 3224,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-12-12",
+      "avg_sentiment": 0.4784818705523551,
+      "review_count": 2951,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-12-19",
+      "avg_sentiment": 0.4647166361974406,
+      "review_count": 2735,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2011-12-26",
+      "avg_sentiment": 0.5251903925014646,
+      "review_count": 3414,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-01-02",
+      "avg_sentiment": 0.520410996945293,
+      "review_count": 3601,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-01-09",
+      "avg_sentiment": 0.5023419203747073,
+      "review_count": 3416,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-01-16",
+      "avg_sentiment": 0.518104209596703,
+      "review_count": 3397,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-01-23",
+      "avg_sentiment": 0.4623584277148567,
+      "review_count": 3002,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-01-30",
+      "avg_sentiment": 0.4888285024154589,
+      "review_count": 3312,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-02-06",
+      "avg_sentiment": 0.5066364519261897,
+      "review_count": 3089,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-02-13",
+      "avg_sentiment": 0.4843799305774692,
+      "review_count": 3169,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-02-20",
+      "avg_sentiment": 0.474299784549092,
+      "review_count": 3249,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-02-27",
+      "avg_sentiment": 0.4665127020785219,
+      "review_count": 3031,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-03-05",
+      "avg_sentiment": 0.4817468440805186,
+      "review_count": 2931,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-03-12",
+      "avg_sentiment": 0.497141041931385,
+      "review_count": 3148,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-03-19",
+      "avg_sentiment": 0.4630477436232832,
+      "review_count": 3058,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-03-26",
+      "avg_sentiment": 0.5075907590759076,
+      "review_count": 3030,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-04-02",
+      "avg_sentiment": 0.4547228727556596,
+      "review_count": 2562,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-04-09",
+      "avg_sentiment": 0.4937700249199003,
+      "review_count": 2809,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-04-16",
+      "avg_sentiment": 0.528714676390155,
+      "review_count": 3291,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-04-23",
+      "avg_sentiment": 0.4729426833173231,
+      "review_count": 3123,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-04-30",
+      "avg_sentiment": 0.4677307425399028,
+      "review_count": 2882,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-05-07",
+      "avg_sentiment": 0.4828311142256482,
+      "review_count": 2854,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-05-14",
+      "avg_sentiment": 0.4808269423141047,
+      "review_count": 2999,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-05-21",
+      "avg_sentiment": 0.5048511207761793,
+      "review_count": 2989,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-05-28",
+      "avg_sentiment": 0.484323971260614,
+      "review_count": 3062,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-06-04",
+      "avg_sentiment": 0.4718739954998392,
+      "review_count": 3111,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-06-11",
+      "avg_sentiment": 0.4763184413839436,
+      "review_count": 2977,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-06-18",
+      "avg_sentiment": 0.5146053449347421,
+      "review_count": 3218,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-06-25",
+      "avg_sentiment": 0.4759036144578313,
+      "review_count": 2822,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-07-02",
+      "avg_sentiment": 0.522337924084649,
+      "review_count": 2977,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-07-09",
+      "avg_sentiment": 0.5523596760681374,
+      "review_count": 3581,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-07-16",
+      "avg_sentiment": 0.4870662460567823,
+      "review_count": 3170,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-07-23",
+      "avg_sentiment": 0.5044323706033743,
+      "review_count": 3497,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-07-30",
+      "avg_sentiment": 0.4603064066852367,
+      "review_count": 2872,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-08-06",
+      "avg_sentiment": 0.5625504439063761,
+      "review_count": 3717,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-08-13",
+      "avg_sentiment": 0.5045871559633027,
+      "review_count": 3379,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-08-20",
+      "avg_sentiment": 0.4817337461300309,
+      "review_count": 3230,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-08-27",
+      "avg_sentiment": 0.4998375040623984,
+      "review_count": 3077,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-09-03",
+      "avg_sentiment": 0.512170125544453,
+      "review_count": 3903,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-09-10",
+      "avg_sentiment": 0.5021516944593868,
+      "review_count": 3718,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-09-17",
+      "avg_sentiment": 0.5109070034443168,
+      "review_count": 3484,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-09-24",
+      "avg_sentiment": 0.471281296023564,
+      "review_count": 3395,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-10-01",
+      "avg_sentiment": 0.5228882833787466,
+      "review_count": 3670,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-10-08",
+      "avg_sentiment": 0.5237724084177708,
+      "review_count": 3849,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-10-15",
+      "avg_sentiment": 0.5540605478135512,
+      "review_count": 4162,
+      "is_anomaly": false
+    },
+    {
+      "week_start": "2012-10-22",
+      "avg_sentiment": 0.5320781032078103,
+      "review_count": 2868,
+      "is_anomaly": false
+    }
+  ],
+  "anomalies": [
+    {
+      "week_start": "2006-02-20",
+      "avg_sentiment": 0.2833333333333333,
+      "review_count": 120
+    },
+    {
+      "week_start": "2005-11-21",
+      "avg_sentiment": 0.8484848484848485,
+      "review_count": 33
+    },
+    {
+      "week_start": "2005-10-10",
+      "avg_sentiment": 0.9333333333333332,
+      "review_count": 30
+    }
+  ],
+  "summary": {
+    "total_reviews": 568454,
+    "total_weeks": 365,
+    "anomaly_count": 3,
+    "accuracy": 0.84,
+    "f1_score": 0.84
+  }
+}

@@ -10,7 +10,6 @@ results/
 checkpoint-*/
 
 # Credentials
-*.json
 .kaggle/
 kaggle.json
 
@@ -27,3 +26,9 @@ mlruns/
 .DS_Store
 hashes.txt
 lambda_deployment/model/
+
+# Node/React
+node_modules/
+dist/
+.vite/
+lambda_deployment/response*.json

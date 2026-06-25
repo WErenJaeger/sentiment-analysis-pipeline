@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+.dashboard {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+.header {
+  margin-bottom: 2.5rem;
+}
+
+.header h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.header p {
+  color: #64748b;
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stat-card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+.chart-section, .anomaly-section, .predict-section {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.chart-section h2, .anomaly-section h2, .predict-section h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+
+.anomaly-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.anomaly-table th {
+  text-align: left;
+  font-size: 0.8rem;
+  color: #64748b;
+  font-weight: 600;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.anomaly-table td {
+  padding: 0.6rem 0.75rem;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.negative-cell { color: #dc2626; font-weight: 600; }
+.positive-cell { color: #16a34a; font-weight: 600; }
+
+.predict-subtitle {
+  color: #64748b;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  margin-top: -0.75rem;
+}
+
+textarea {
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 0.75rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  resize: vertical;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: #3b82f6;
+}
+
+button {
+  margin-top: 0.75rem;
+  background: #0f172a;
+  color: white;
+  border: none;
+  padding: 0.65rem 1.5rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+button:hover:not(:disabled) {
+  background: #1e293b;
+}
+
+button:disabled {
+  background: #cbd5e1;
+  cursor: not-allowed;
+}
+
+.error-text {
+  color: #dc2626;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+.prediction-result {
+  margin-top: 1.25rem;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.prediction-label {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.02em;
+}
+
+.prediction-confidence {
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 700px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
