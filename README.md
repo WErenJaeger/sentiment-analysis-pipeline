@@ -1,16 +1,16 @@
 # Sentiment Analysis & Anomaly Detection Pipeline
 
-End-to-end NLP pipeline that fine-tunes DistilBERT for sentiment classification on Amazon product reviews, with weekly trend analysis, statistical anomaly detection, and serverless model deployment on AWS Lambda.
+End-to-end NLP pipeline that fine-tunes DistilBERT for sentiment classification on Amazon product reviews, with weekly trend analysis, statistical anomaly detection, serverless model deployment, and an interactive React dashboard.
 
 ## Project Overview
 
-This project extends a previous serverless ETL pipeline (Java/AWS Lambda/Supabase/React) by adding a full NLP model training, evaluation, and deployment layer. It demonstrates:
+This project extends a previous serverless ETL pipeline (Java/AWS Lambda/Supabase/React) by adding a full NLP model training, evaluation, deployment, and visualization layer. It demonstrates:
 
 - Fine-tuning a transformer model (DistilBERT) for 3-class sentiment classification
 - Handling class imbalance via undersampling
 - Time-series anomaly detection on sentiment trends, including root-cause validation
 - Containerized model deployment on AWS Lambda (ARM64, container image)
-- (Planned) Interactive React dashboard
+- A React dashboard with live model inference
 
 ## Dataset
 
@@ -41,10 +41,17 @@ unzip amazon-fine-food-reviews.zip
 
 ### Model Deployment
 
-1. **Containerization**: Packaged the fine-tuned model in a Docker image using a multi-stage build — compiling native dependencies (e.g. Rust-based `hf-xet`) in a `python:3.11-slim` builder stage, then copying only the resulting artifacts into the minimal AWS Lambda base image (no compiler toolchain in the final image)
-2. **Architecture**: Built for `linux/arm64` to match Lambda's Graviton runtime and reduce cost
-3. **Inference handler**: A Lambda function (`app.py`) loads the model once per cold start and serves predictions via `model.predict()`-style invocation
-4. **Deployment**: Pushed to Amazon ECR, deployed as a Lambda function with 3008MB memory and 90s timeout (to accommodate cold-start model loading)
+1. **Containerization**: Packaged the fine-tuned model in a Docker image using a multi-stage build — compiling native dependencies (e.g. Rust-based `hf-xet`) in a `python:3.11-slim` builder stage, then copying only the resulting artifacts into the minimal AWS Lambda base image
+2. **Architecture**: Built for `linux/arm64` to match Lambda's Graviton runtime
+3. **Inference handler**: A Lambda function loads the model once per cold start and serves predictions on invocation
+4. **Public endpoint**: Exposed via a Lambda Function URL (no API Gateway needed) for direct HTTPS access from the browser
+
+### Dashboard
+
+A React + Recharts single-page app that:
+- Visualizes the full weekly sentiment trend with detected anomalies highlighted
+- Lists anomalous weeks with their sentiment scores and review counts
+- Lets visitors type any text and get a real-time sentiment prediction from the live Lambda endpoint
 
 ## Results
 
@@ -65,27 +72,52 @@ Per-class breakdown showed the "neutral" class as the primary source of confusio
 
 ![Weekly Sentiment Trend](weekly_sentiment_trend.png)
 
-*Note: pre-2006 data is sparse (visible as gaps between data points), so early-period trends should be interpreted with caution. The analysis is most statistically robust from 2006 onward.*
+*Note: pre-2006 data is sparse, so early-period trends should be interpreted with caution. The analysis is most statistically robust from 2006 onward.*
 
 ### Deployment Verification
 
-Live inference test against the deployed Lambda function:
+Live inference test against the deployed Lambda function, called directly from the dashboard:
 
 ```json
-Input: "This product is amazing, I love it!"
-Output: {"sentiment": "positive", "confidence": 0.9988}
+Input: "This product exceeded my expectations, the quality is outstanding!"
+Output: {"sentiment": "positive", "confidence": 0.995}
 
-Input: "This was a terrible purchase, complete waste of money."
-Output: {"sentiment": "negative", "confidence": 0.9989}
+Input: "This is not outstanding at all, very disappointing."
+Output: {"sentiment": "negative", "confidence": 0.986}
 ```
+
+The second example confirms the model correctly handles negation rather than relying on simple keyword matching.
 
 ## Tech Stack
 
 - **ML**: PyTorch, Hugging Face Transformers, scikit-learn
 - **Data analysis**: pandas, NumPy, Matplotlib
 - **Experiment tracking**: MLflow
-- **Infra**: AWS Lambda (container image, ARM64), Amazon ECR, Docker, Supabase (PostgreSQL)
-- **Planned**: React/Recharts dashboard
+- **Backend/Infra**: AWS Lambda (container image, ARM64), Amazon ECR, Docker, Supabase (PostgreSQL)
+- **Frontend**: React, Recharts, Vite
+
+## Project Structure
+.
+
+├── sentiment_training.ipynb        # Data prep, fine-tuning, evaluation, anomaly detection
+
+├── lambda_deployment/
+
+│   ├── Dockerfile                  # Multi-stage build for Lambda container image
+
+│   ├── app.py                      # Lambda inference handler
+
+│   └── requirements.txt
+
+├── sentiment-dashboard/            # React dashboard (Vite + Recharts)
+
+│   └── src/
+
+│       ├── App.jsx
+
+│       └── sentiment_data.json     # Precomputed weekly trend + anomaly data
+
+└── weekly_sentiment_trend.png
 
 ## Project Status
 
@@ -94,7 +126,7 @@ Output: {"sentiment": "negative", "confidence": 0.9989}
 - [x] Weekly sentiment trend analysis
 - [x] Statistical anomaly detection (IQR-based) with root-cause validation
 - [x] Model serving (AWS Lambda, containerized)
-- [ ] Interactive dashboard (React/Recharts)
+- [x] Interactive dashboard (React/Recharts) with live model inference
 
 ## Author
 
